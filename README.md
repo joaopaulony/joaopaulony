@@ -1,7 +1,7 @@
 ### Hi there, I'm João Paulo Candido. 👋
 
 - 🔭 I’m currently working on my apprenticeship
-- 🌱 I’m currently learning SAP ABAP 
+- 🌱 I’m currently learning Django!
 
 <div align="center">
   <a href="https://github.com/joaopaulony">
