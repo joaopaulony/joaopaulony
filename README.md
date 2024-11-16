@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my apprenticeship
 - 🌱 I’m currently learning Cloud Computing and c# .NET!
-- <a href="https://joaopaulony.github.io">Link to see my Works</span></a>
+- <a href="https://joaopaulony.github.io">link to my portfolio</span></a>
 
 <div align="center">
   <a href="https://github.com/joaopaulony">
